@@ -52,9 +52,6 @@
             "pattern": "cdn.discordapp.com",
             "replacement": "<DOMAIN>/cdn"
         }, {
-            "pattern": "hcaptcha.com",
-            "replacement": "<DOMAIN>/captcha"
-        }, {
             "pattern": "assets-global.website-files.com",
             "replacement": "<DOMAIN>/assets-global"
         }, {
